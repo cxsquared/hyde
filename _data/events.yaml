@@ -1,0 +1,42 @@
+---
+#- address: 2500 Broadway
+#  allday: true
+#  city-state: "New York, NY"
+#  end: "2015-09-19 20:30:00"
+#  start: "2015-09-19 18:00:00"
+#  summary: "The first ever JekyllCon"
+#  title: "JekyllCon"
+#  venue: Jekyll World Headquarters
+#  website: "http://jekyllrb.com/"
+#  zip: 10025
+
+- title: "GDG Speakers Series - Johnny Owens"
+  summary: "Programmer Johnny Owens talks about his experience in the game industry"
+  venue: IT255
+  start: "2015-10-02 18:00:00"
+  end: "2015-10-02 20:00:00"
+
+- title: "GDG Speakers Series - Sonya Wolfram"
+  summary: "Producer Sonya Wolfram talks about her experience in the game industry"
+  venue: IT255
+  start: "2015-10-09 18:00:00"
+  end: "2015-10-09 20:00:00"
+
+- title: "Open Lab"
+  summary: "Come hang out and work on projects or homework."
+  venue: IT255
+  start: "2015-10-16 18:00:00"
+  end: "2015-10-16 20:00:00"
+
+- title: "Game Jam Preperations"
+  summary: "Get ready for the 24 Hour Game Jam!"
+  venue: IT255
+  start: "2015-10-30 18:00:00"
+  end: "2015-10-30 20:00:00"
+
+- title: "24 Hour Game Jam"
+  summary: "Make a game in 24 hours!"
+  venue: IT255
+  start: "2015-11-6 18:00:00"
+  end: "2015-11-7 18:00:00"
+---

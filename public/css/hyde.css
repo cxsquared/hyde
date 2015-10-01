@@ -59,13 +59,22 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
+  .sidebar .logo {
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+  }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -80,7 +89,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2.25rem;
 }
 
 /* Sidebar nav */
@@ -97,6 +106,15 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+.sidebar .social-media img{
+  width: 25%;
+  display: inline-block;
+}
+
+.sidebar .social-media {
+  margin-left: -10px;
 }
 
 /* Sticky sidebar
@@ -247,4 +265,8 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+.dt-start {
+  color: #75b5aa;
 }
